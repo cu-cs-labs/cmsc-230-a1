@@ -1,4 +1,4 @@
-package edu.cu.cmsc-230.sumlab;
+package edu.cu.cmsc230.sumlab;
 
 import java.util.ArrayList;
 
